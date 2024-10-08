@@ -56,7 +56,7 @@ export const tours = [
     {
         id: 4,
         image: tour4,
-        date: '>december 5th, 2019',
+        date: 'december 5th, 2019',
         title: 'Kenya Highlights',
         info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque\n' +
             'vitae tempore voluptatum maxime reprehenderit eum quod\n' +
